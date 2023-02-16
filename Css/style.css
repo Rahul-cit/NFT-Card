@@ -1,0 +1,69 @@
+
+/* common css */
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+/* *common css */
+
+/* NFT card starts */
+
+div img{
+    height: 200px;
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    box-shadow: 1px 1px black;
+}
+div h2{
+    display: block;
+    width: 193px;
+    margin: auto;
+    font-size: 18px;
+    margin-top: 10px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div p{
+    display: block;
+    width: 193px;
+    margin: auto;
+    margin-top: 25px;
+    color: pink;
+    font-family: arial;
+}
+div ul{
+    display: block;
+    width: 193px;
+    margin: auto;
+}
+div ul li{
+    display: inline-block;
+    margin-top: 15px;
+    color: lightgreen;
+
+}
+div ul{
+    border-bottom: 1px solid beige;
+}
+ div{
+    background-color: rgb(13, 24, 56);
+    display: block;
+    width: 250px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 3px 3px black;
+      
+  
+ }
+ body{
+    background-color: rgb(22, 34, 74) ;
+
+ }
+ /* *NFT card ends */
